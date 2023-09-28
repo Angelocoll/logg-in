@@ -193,6 +193,144 @@ P{
     font-family: Arial, Helvetica, sans-serif;
     
 }
+@media (max-width: 1190px) {
+    .home{
+        width: 60%;
+    }
+}
+@media (max-width: 1010px) {
+    .home{
+        width: 70%;
+    }
+}
+@media (max-width: 865px) {
+    .home{
+        width: 80%;
+    }
+}
+@media (max-width: 740px) {
+    .home{
+        width: 90%;
+    }
+}
+@media (max-width: 665px) {
+    .home{
+        width: 100%;
+    }
+}
+@media (max-width: 600px) {
+    .google{
+        height: 35px;
+        width: 80%;
 
+    }
+    .facebook{
+        height: 35px;
+        width: 80%;
+
+    }
+}
+@media (max-width: 530px) {
+    .google{
+        height: 40px;
+        width: 95%;
+
+    }
+    .facebook{
+        height: 40px;
+        width: 95%;
+
+    }
+}
+@media (max-width: 450px) {
+    .google{
+        scale: 0.8;
+        font-size: 11px;
+
+    }
+    .facebook{
+        scale: 0.8;
+        font-size: 11.5px;
+    }
+    h2{
+        font-size: 12px;
+    }
+    footer p{
+        font-size: 9px;
+    }
+    input{
+      scale: 0.8;  
+    }
+    h3{
+        font-size: 6px;
+    }
+    a{
+        font-size: 8px;
+    }
+    .checkbox-box{
+        width: 80%;
+    }
+    
+}
+@media (max-width: 375px) {
+   .end-box .google{
+        scale: 0.7;
+        font-size: 9px;
+
+    }
+   .end-box1 .facebook{
+        scale: 0.7;
+        font-size: 10px;
+    }
+    h2{
+        font-size: 12px;
+    }
+    footer p{
+        font-size: 9px;
+    }
+    input{
+      scale: 0.8;  
+    }
+    h3{
+        font-size: 5px;
+    }
+    a{
+        font-size: 6px;
+    }
+    .checkbox-box{
+        width: 80%;
+    }
+    
+}
+@media (max-width: 307px) {
+   .end-box .google{
+        scale: 0.8;
+        font-size: 7px;
+
+    }
+   .end-box1 .facebook{
+        scale: 0.8;
+        font-size: 8px;
+    }
+    h2{
+        font-size: 12px;
+    }
+    footer p{
+        font-size: 9px;
+    }
+    input{
+      scale: 1;  
+    }
+    h3{
+        font-size: 5px;
+    }
+    a{
+        font-size: 6px;
+    }
+    .checkbox-box{
+        width: 100%;
+    }
+    
+}
 
     
